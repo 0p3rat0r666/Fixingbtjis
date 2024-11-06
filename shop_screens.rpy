@@ -233,8 +233,7 @@ screen shop_screen(_active=True):
                         $ shelf_x_counter += 1
                         $ x_itr += 1
                         $ temp_x += SHOP_XSPACING + SHOP_ITEM_SIZE
-                    else:
-                        break
+                    
                 
                     
             $ x_itr = 0
